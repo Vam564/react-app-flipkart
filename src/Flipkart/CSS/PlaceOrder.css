@@ -1,0 +1,29 @@
+
+.item-ordered
+{
+    
+    background-image: url('https://cdn.dribbble.com/users/1948198/screenshots/4377223/dribble.gif');
+    background-size: cover;
+    background-position: -20%;
+    padding: 50px;
+    color: #FB641B;
+}
+.item-cart-ordered
+{
+    padding: 15px;
+    color: #FB641B;
+}
+
+.gif
+{
+   background-position:+30%;
+    height: 500px;
+    background-size: cover;
+    background-image: url('https://www.jonmgomes.com/wp-content/uploads/2020/03/Shopping-Cart-with-Gear-Icon.gif');
+}
+.translate:hover
+{
+    transform: scale(1.1,1.1);
+    transition: 1s;
+}
+

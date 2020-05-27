@@ -1,0 +1,62 @@
+.foot{
+    background-color: #212121;
+    color:white
+    
+}
+.foot a {
+    color: white;
+}
+.li-ti
+{
+    font-size: 12px;
+    font-family: Roboto,Arial,sans-serif;
+    color: #878787;
+    margin-bottom: 10px;
+}
+.li-text
+{
+    font-size: 12px;
+    font-family: Roboto,Arial,sans-serif;
+    color: #FFFFFF;
+    
+}
+.dis a
+{
+    display: block;
+}
+.bor {
+    border-left: 2px solid #878787;
+   
+}
+.ml
+{
+    margin-left: -100px;
+}
+.mr
+{
+    margin-left: 30px;
+}
+.li-text p {
+    margin:-1px;
+}
+.down
+{
+    font-size: 14px;
+    font-family: Roboto,Arial,sans-serif;
+    color: #FFFFFF;
+    margin-left: 8px;
+    margin-right: 30px;
+}
+.imgIcon
+{
+    height: 15px;
+    width: 15px;
+}
+.fl
+{
+    border-top: 2px solid #878787;
+}
+.imgVisa
+{
+    margin-left: 110px;
+}

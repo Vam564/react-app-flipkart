@@ -1,0 +1,742 @@
+{
+  "carousel": [
+    "https://rukminim1.flixcart.com/flap/1680/280/image/a656619c03555045.jpg?q=50",
+    "https://rukminim1.flixcart.com/flap/1680/280/image/da70c5eb7e3d4e35.jpg?q=50",
+    "https://rukminim1.flixcart.com/flap/1680/280/image/238481589be6f42c.jpg?q=50",
+    "https://rukminim1.flixcart.com/flap/1680/280/image/93c8691e571bf364.jpg?q=50",
+    "https://rukminim1.flixcart.com/flap/1680/280/image/b449b8dca0f0b945.jpg?q=50"
+  ],
+  "mobiles": [
+    {
+      "itemType": [
+        "Electronics"
+      ],
+      "RAM": [
+        "4 GB"
+      ],
+      "productimg": " https://rukminim1.flixcart.com/image/312/312/k0wqwsw0/computer/t/h/4/hp-na-thin-and-light-laptop-original-imafkhd6zh4ajy2h.jpeg?q=70",
+      "productName": " Dell 14 3000 Core i3 7th Gen inspiron 3481 Laptop",
+      "specifications": [
+        " Intel Core i3 Processor (7th Gen)",
+        "4 GB DDR4 RAM",
+        " Linux/Ubuntu Operating System",
+        "1 TB HDD",
+        "35.56 cm (14 inch) Display",
+        "1 Year Limited Hardware Warranty, InHome Service After Remote Diagnosis"
+      ],
+      "productPrice": {
+        "cutOffPrice": "25999",
+        "actualPrice": "29499",
+        "offer": "14% off",
+        "upto": "No Cost EMI"
+      },
+      "productRatings": {
+        "starRating": "4.1 ",
+        "totalRating": "3,579",
+        "totalReviews": "508"
+      }
+    },
+    {
+      "itemType": [
+        "mobiles"
+      ],
+      "RAM": [
+        "4 GB"
+      ],
+      "productimg": "https://rukminim1.flixcart.com/image/312/312/k65d18w0pkrrdj/mobile/y/a/z/realme-5i-rmx2030-original-imafnsx5bj4yqhas.jpeg?q=70",
+      "productName": " Realme C3 (Blazing Red, 32 GB)",
+      "specifications": [
+        "4 GB RAM | 128 GB ROM |",
+        "16.56 cm (6.52 inch) HD+ Display",
+        "12MP + 8MP + 2MP + 2MP | 8MP Front Camera",
+        "5000 mAh Battery",
+        "Qualcomm Snapdragon 665 (2 GHz) Processor",
+        "Sunrise Design",
+        "Reverse Charging",
+        "Brand Warranty of 1 Year Available for Mobile and 6 Months for Accessories"
+      ],
+      "productPrice": {
+        "cutOffPrice": "10999",
+        "actualPrice": "11999",
+        "offer": "8% off",
+        "upto": "Upto ₹10,900 Off on Exchange"
+      },
+      "productRatings": {
+        "starRating": "4.1 ",
+        "totalRating": "4,201 ",
+        "totalReviews": "12,508 "
+      }
+    },
+    {
+      "itemType": [
+        "Electronics"
+      ],
+      "RAM": [
+        "0 GB"
+      ],
+      "productimg": " https://rukminim1.flixcart.com/image/312/312/k4rcmfk0/washing-machine-new/m/z/s/mqsa65h5b-marq-by-flipkart-original-imafnh7fbtufjt3c.jpeg?q=70 ",
+      "productName": " MarQ by Flipkart 6.5 kg 5 Star Rating Semi Automatic Top Load White, Blue",
+      "specifications": [
+        " Semi Automatic Top Load",
+        "5 Star Rating",
+        " Capacity: 6.5 kg | Max Spin Speed: 1350 RPM",
+        " Polypropylene | Pulsator",
+        "2 Wash Programs",
+        "2 Years Comprehensive and 5 Years on Motor"
+      ],
+      "productPrice": {
+        "cutOffPrice": "7999",
+        "actualPrice": "10999",
+        "offer": "28% off"
+      },
+      "productRatings": {
+        "starRating": "4.3 ",
+        "totalRating": "14,201 ",
+        "totalReviews": "13,569 "
+      }
+    },
+    {
+      "itemType": [
+        "Electronics"
+      ],
+      "RAM": [
+        "0 GB"
+      ],
+      "productimg": " https://rukminim1.flixcart.com/image/312/312/k5zn9u80/water-purifier/s/g/k/grand-plus-prim-port-15-ltr-original-imafzkyhvhv5fwnz.jpeg?q=70",
+      "productName": "Grand plus Misty port 15 ltr 15 L Gravity Based Water Purifier",
+      "specifications": [
+        " Non - Electrical & Storage",
+        " Gravity Based",
+        "15 L Capacity",
+        "3 month warranty on only mechanical parts"
+      ],
+      "productPrice": {
+        "cutOffPrice": "1999",
+        "actualPrice": "2999",
+        "offer": "58% off"
+      },
+      "productRatings": {
+        "starRating": "4.1 ",
+        "totalRating": "47 ",
+        "totalReviews": "8 "
+      }
+    },
+    {
+      "itemType": [
+        "mobiles"
+      ],
+      "RAM": [
+        "4 GB"
+      ],
+      "productimg": "https://rukminim1.flixcart.com/image/312/312/k0flmkw0/mobile/x/e/s/samsung-galaxy-a50s-sm-a507fzlvins-original-imafk8h4pfhftnz6.jpeg?q=70",
+      "productName": " Samsung Galaxy A50s (Prism Crush Violet, 128 GB)",
+      "specifications": [
+        "4 GB RAM | 128 GB ROM |",
+        "16.26 cm (6.4 inch) Full HD+ Display",
+        "48MP + 5MP + 8MP | 32MP Front Camera",
+        "4000 mAh Battery",
+        "4000 mAh Li-ion Battery",
+        "Exynos 9611 Processor",
+        "Brand Warranty of 1 Year Available for Mobile and 6 Months for Accessories"
+      ],
+      "productPrice": {
+        "cutOffPrice": "18570",
+        "actualPrice": "24900",
+        "offer": "25% off",
+        "upto": "No Cost EMI"
+      },
+      "productRatings": {
+        "starRating": "4.3 ",
+        "totalRating": "4,376 ",
+        "totalReviews": "473 "
+      }
+    },
+    {
+      "itemType": [
+        "mobiles"
+      ],
+      "RAM": [
+        "8 GB"
+      ],
+      "productimg": "https://rukminim1.flixcart.com/image/312/312/k6fd47k0/mobile/t/a/u/samsung-galaxy-a71-sm-a715fzbwins-original-imafzvtqvz7vtgzs.jpeg?q=70",
+      "productName": " Samsung Galaxy A71 (Prism Crush Blue, 128 GB)",
+      "specifications": [
+        "8 GB RAM | 128 GB ROM |Expandable Upto 512 GB",
+        "17.02 cm (6.7 inch) Full HD+ Display",
+        "64MP + 12MP + 5MP + 5MP | 32MP Front Camera",
+        "4500 mAh Li-ion Battery",
+        "Qualcomm SM7150 Processor",
+        "Brand Warranty of 1 Year Available for Mobile and 6 Months for Accessories"
+      ],
+      "productPrice": {
+        "cutOffPrice": "31500",
+        "actualPrice": "34999",
+        "offer": "9% off",
+        "upto": "No Cost EMI"
+      },
+      "productRatings": {
+        "starRating": "4.6 ",
+        "totalRating": "178 ",
+        "totalReviews": "37 "
+      }
+    },
+    {
+      "itemType": [
+        "mobiles"
+      ],
+      "RAM": [
+        "6 GB"
+      ],
+      "productimg": "https://rukminim1.flixcart.com/image/312/312/jzhb24w0pkrrdj/mobile-refurbished/c/c/f/galaxy-m40-128-d-m40-samsung-6-original-imafg6vph4j6fazf.jpeg?q=70",
+      "productName": " Samsung Galaxy M40 (Seawater Blue, 128 GB)",
+      "specifications": [
+        "6 GB RAM | 128 GB ROM |",
+        "16.0 cm (6.3 inch) Display",
+        "64MP + 12MP + 5MP + 5MP | 32MP Front Camera",
+        "32MP Rear Camera",
+        "3500 mAh Battery",
+        "Brand Warranty of 1 Year Available for Mobile and 6 Months for Accessories"
+      ],
+      "productPrice": {
+        "cutOffPrice": "19999",
+        "actualPrice": "21490",
+        "offer": "6% off",
+        "upto": "No Cost EMI"
+      },
+      "productRatings": {
+        "starRating": "4.2 ",
+        "totalRating": "444 ",
+        "totalReviews": "40 "
+      }
+    },
+    {
+      "itemType": [
+        "mobiles"
+      ],
+      "RAM": [
+        "4 GB"
+      ],
+      "productimg": "https://rukminim1.flixcart.com/image/312/312/k2jbyq80pkrrdj/mobile-refurbished/2/j/h/galaxy-m30s-64-a-sm-m307fzbdins-samsung-4-original-imafkzxkjzpgwqzw.jpeg?q=70",
+      "productName": " Samsung Galaxy M30s (Black, 64 GB)",
+      "specifications": [
+        "4 GB RAM | 64 GB ROM |",
+        "16.26 cm (6.4 Inches) Display",
+        "48MP Rear Camera",
+        "6000 mAH Battery",
+        "Twelve Months"
+      ],
+      "productPrice": {
+        "cutOffPrice": "₹15499",
+        "actualPrice": "₹15500",
+        "offer": "0% off",
+        "upto": "No Cost EMI"
+      },
+      "productRatings": {
+        "starRating": "4.4 ",
+        "totalRating": "2,3,47 ",
+        "totalReviews": "220 "
+      }
+    },
+    {
+      "itemType": [
+        "mobiles"
+      ],
+      "RAM": [
+        "4 GB"
+      ],
+      "productimg": "https://rukminim1.flixcart.com/image/312/312/jj4ln680/mobile/y/d/w/asus-zenfone-5z-zs621kl-2a001in-zs621kl-2a011in-original-imaf6rn7eyfngknj.jpeg?q=70",
+      "productName": " Asus ZenFone 5Z (Midnight Blue, 256 GB)",
+      "specifications": [
+        "4 GB RAM | 64 GB ROM |",
+        "16.26 cm (6.4 Inches) Display",
+        "48MP Rear Camera",
+        "6000 mAH Battery",
+        "Twelve Months"
+      ],
+      "productPrice": {
+        "cutOffPrice": "₹15,499",
+        "actualPrice": "₹15,500",
+        "offer": "0% off",
+        "upto": "No Cost EMI"
+      },
+      "productRatings": {
+        "starRating": "4.4 ",
+        "totalRating": "2,3,47 ",
+        "totalReviews": "220 "
+      }
+    },
+    {
+      "itemType": [
+        "grocery",
+        "groceries"
+      ],
+      "productimg": "https://rukminim1.flixcart.com/image/612/612/j65cnm80/flour/z/s/r/1-superior-mp-atta-whole-wheat-flour-aashirvaad-original-imaewzbkfqhy4dhq.jpeg?q=70",
+      "productName": " Aashirvaad Superior MP Atta",
+      "specifications": [
+        "1 Kg Packet"
+      ],
+      "productPrice": {
+        "cutOffPrice": "54",
+        "actualPrice": "60",
+        "offer": "5% off",
+        "upto": "No Exchange on this item"
+      },
+      "productRatings": {
+        "starRating": "4.1 ",
+        "totalRating": "4,201 ",
+        "totalReviews": "12,508 "
+      }
+    },
+    {
+      "itemType": [
+        "grocery",
+        "groceries"
+      ],
+      "productimg": "https://rukminim1.flixcart.com/image/612/612/jqgy3rk0/nut-dry-fruit/p/t/g/100-100-natural-california-pouch-happilo-original-imafcgnkxtnghcec.jpeg?q=70",
+      "productName": "Happilo 100% Natural Premium Californian Almonds",
+      "specifications": [
+        " 100 g Packet"
+      ],
+      "productPrice": {
+        "cutOffPrice": "1",
+        "actualPrice": "249",
+        "offer": "99% off",
+        "upto": "No Exchange on this item"
+      },
+      "productRatings": {
+        "starRating": "4.1 ",
+        "totalRating": "3,579",
+        "totalReviews": "508"
+      }
+    },
+    {
+      "itemType": [
+        "grocery",
+        "groceries"
+      ],
+      "productimg": "https://rukminim1.flixcart.com/image/612/612/k7285u80/nut-dry-fruit/m/s/a/100-w320-whole-pouch-flipkart-supermart-select-original-imafpdsyk44yqngd.jpeg?q=70",
+      "productName": " Flipkart Supermart Select W320 Whole Cashews",
+      "specifications": [
+        "100 g Packet"
+      ],
+      "productPrice": {
+        "cutOffPrice": "147",
+        "actualPrice": "229",
+        "offer": "34% off",
+        "upto": "No Exchange on this item"
+      },
+      "productRatings": {
+        "starRating": "4.1 ",
+        "totalRating": "3,579",
+        "totalReviews": "508"
+      }
+    },
+    {
+      "itemType": [
+        "shoes",
+        "Puma",
+        "mens footwear"
+      ],
+      "productimg": "https://rukminim1.flixcart.com/image/452/542/k7dnonk0/shoe/b/z/h/370766-8-puma-white-gray-violet-heather-black-original-imafpmpqx7mjcz5a.jpeg?q=50",
+      "productName": "SF Cell Ultimate Motorsport Shoes For Men  (Black)",
+      "specifications": [
+        "PUMA"
+      ],
+      "productPrice": {
+        "cutOffPrice": "3249",
+        "actualPrice": "4449",
+        "offer": "10% off",
+        "upto": "No Exchange on this item"
+      },
+      "productRatings": {
+        "starRating": "4.1 ",
+        "totalRating": "3,579",
+        "totalReviews": "508"
+      }
+    },
+    {
+      "itemType": [
+        "shoes",
+        "Puma",
+        "mens footwear"
+      ],
+      "productimg": "https://rukminim1.flixcart.com/image/452/542/k5o7r0w0/shoe/8/y/u/368035-9-puma-high-rise-black-cherry-tomato-white-original-imafz9fxkznynhhh.jpeg?q=50",
+      "productName": " SUPR Running Shoes For Men  (White)",
+      "specifications": [
+        "PUMA"
+      ],
+      "productPrice": {
+        "cutOffPrice": "3449",
+        "actualPrice": "6999",
+        "offer": "50% off",
+        "upto": "No Exchange on this item"
+      },
+      "productRatings": {
+        "starRating": "4.1 ",
+        "totalRating": "3,579",
+        "totalReviews": "508"
+      }
+    },
+    {
+      "itemType": [
+        "shirts",
+        "mens shirts",
+        "clothes",
+        "Peter England"
+      ],
+      "productimg": "https://rukminim1.flixcart.com/image/452/542/k7tdj0w0/shirt/g/f/g/39-pusfussfo22466-peter-england-university-original-imafpxfg5sbszawv.jpeg?q=50",
+      "productName": " SUPR Running Shoes For Men  (White)",
+      "specifications": [
+        "PETER ENGLAND"
+      ],
+      "productPrice": {
+        "cutOffPrice": "844",
+        "actualPrice": "1329",
+        "offer": "35% off",
+        "upto": "No Exchange on this item"
+      },
+      "productRatings": {
+        "starRating": "4.1 ",
+        "totalRating": "3,579",
+        "totalReviews": "508"
+      }
+    },
+    {
+      "itemType": [
+        "shirts",
+        "mens shirts",
+        "clothes",
+        "highlander"
+      ],
+      "productimg": "https://rukminim1.flixcart.com/image/452/542/k70spzk0/shirt/d/k/z/m-hlsh008832-highlander-original-imafpchqyyxgzfht.jpeg?q=50",
+      "productName": " Mens Solid Casual White Shirt",
+      "specifications": [
+        "HIGHLANDER"
+      ],
+      "productPrice": {
+        "cutOffPrice": "499",
+        "actualPrice": "999",
+        "offer": "50% off",
+        "upto": "No Exchange on this item"
+      },
+      "productRatings": {
+        "starRating": "4.1 ",
+        "totalRating": "3,579",
+        "totalReviews": "508"
+      }
+    },
+    {
+      "itemType": [
+        "pants",
+        "mens jeans",
+        "clothes",
+        "Flying Machine",
+        "Jeans"
+      ],
+      "productimg": "https://rukminim1.flixcart.com/image/452/542/k5fn3ww0/jean/e/h/g/32-fmjno1037-flying-machine-original-imafz39avn8fcpgc.jpeg?q=50",
+      "productName": " Tapered Fit Men Grey Jeans",
+      "specifications": [
+        "Flying Machine"
+      ],
+      "productPrice": {
+        "cutOffPrice": "1299",
+        "actualPrice": "2199",
+        "offer": "45% off",
+        "upto": "No Exchange on this item"
+      },
+      "productRatings": {
+        "starRating": "4.1 ",
+        "totalRating": "3,579",
+        "totalReviews": "508"
+      }
+    },
+    {
+      "itemType": [
+        "pants",
+        "mens jeans",
+        "clothes",
+        "Flying Machine",
+        "Jeans"
+      ],
+      "productimg": "https://rukminim1.flixcart.com/image/452/542/jxtakcw0/jean/p/h/r/32-w34968w22smu-wrangler-original-imafg6zmew8gd69c.jpeg?q=50",
+      "productName": "Slim Men Black Jeans",
+      "specifications": [
+        "Wrangler"
+      ],
+      "productPrice": {
+        "cutOffPrice": "1499",
+        "actualPrice": "2999",
+        "offer": "56% off",
+        "upto": "No Exchange on this item"
+      },
+      "productRatings": {
+        "starRating": "4.1 ",
+        "totalRating": "3,579",
+        "totalReviews": "508"
+      }
+    },
+    {
+      "itemType": [
+        "pants",
+        "mens jeans",
+        "clothes",
+        "Highlander",
+        "Jeans"
+      ],
+      "productimg": " https://rukminim1.flixcart.com/image/452/542/k3g73bk0/jean/k/z/n/38-hljn001095-highlander-original-imafmkvbbfr3yeze.jpeg?q=50",
+      "productName": "Slim Men Grey Jeans",
+      "specifications": [
+        "HIGHLANDER"
+      ],
+      "productPrice": {
+        "cutOffPrice": "664",
+        "actualPrice": "1899",
+        "offer": "65% off",
+        "upto": "No Exchange on this item"
+      },
+      "productRatings": {
+        "starRating": "4.1 ",
+        "totalRating": "3,579",
+        "totalReviews": "508"
+      }
+    },
+    {
+      "itemType": [
+        "shirts",
+        "mens shirts",
+        "clothes",
+        "lee"
+      ],
+      "productimg": "https://rukminim1.flixcart.com/image/452/542/k13w4280/shirt/x/y/w/38-pcsfcsspk17396-peter-england-original-imafkkhpadpvewvp.jpeg?q=50",
+      "productName": " Men Self Design Casual Button Down Shirt",
+      "specifications": [
+        "LEE"
+      ],
+      "productPrice": {
+        "cutOffPrice": "1049",
+        "actualPrice": "1799",
+        "offer": "41% off",
+        "upto": "No Exchange on this item"
+      },
+      "productRatings": {
+        "starRating": "4.1 ",
+        "totalRating": "3,579",
+        "totalReviews": "508"
+      }
+    }
+  ],
+  "filterDropDown": [
+    [
+      "RAM",
+      [
+        "6 GB ",
+        "4 GB",
+        "3 GB",
+        "2 GB",
+        "1 GB",
+        "512 MB-1 GB",
+        "Less Than 512 MB"
+      ]
+    ],
+    [
+      "BRAND",
+      [
+        "Realme",
+        "Samsung",
+        "Mi",
+        "Poco",
+        "Apple",
+        "Asus"
+      ]
+    ],
+    [
+      "CUSTOMER RATINGS",
+      [
+        "4 ★ & above",
+        "3 ★ & above",
+        "2 ★ & above",
+        "1 ★ & above"
+      ]
+    ],
+    [
+      "INTERNAL STORAGE",
+      [
+        "256 GB & Above",
+        "128-255.9 GB",
+        "64-127.9 GB",
+        "32-63.9 GB",
+        "16-31.9 GB",
+        "8-15.9 GB",
+        "4-7.9 GB",
+        "2 GB-3.9 GB",
+        "1GB-1.9",
+        "Less than 1 GB"
+      ]
+    ],
+    [
+      "BATTERY CAPACITY",
+      [
+        "1000-1999 mAh",
+        "2000-2999 mAh",
+        "3000-3999 mAh",
+        "4000-4999 mAh",
+        "5000 mAh & Above",
+        "Less than 1000 mAh"
+      ]
+    ],
+    [
+      "OS",
+      [
+        "Android",
+        "Brew",
+        "ios",
+        "Linux",
+        "Windows"
+      ]
+    ],
+    [
+      "NETWORK TYPE",
+      [
+        "2G",
+        "3G",
+        "4G",
+        "4G Volte",
+        "5G"
+      ]
+    ],
+    [
+      "SCREEN SIZE",
+      [
+        "5.7-5.9",
+        "5.5-5.6",
+        "5.2-5.4"
+      ]
+    ],
+    [
+      "SIMTTYPE",
+      [
+        "Dual",
+        "Four",
+        "Single",
+        "Triple"
+      ]
+    ],
+    [
+      "PRIMARY CAMERA",
+      [
+        "Below 2 MP",
+        "5 - 7.9 MP",
+        "8 - 11.9 MP",
+        "12 - 12.9 MP",
+        "13 - 15.9 MP",
+        "16 - 20.9 MP"
+      ]
+    ],
+    [
+      "SECONDARY CAMERA",
+      [
+        "0 - 1.9 MP",
+        "2 - 2.9 MP",
+        "3 - 4.9 MP",
+        " 5 - 7.9 MP"
+      ]
+    ],
+    [
+      "OFFERS",
+      [
+        "Bank Offer",
+        "Exchange Offer",
+        "No Cost EMI",
+        "Special Price"
+      ]
+    ],
+    [
+      "PROCESSOR",
+      [
+        "Exynos",
+        "Snapdragon"
+      ]
+    ],
+    [
+      "SPECIALITY",
+      [
+        "Big Storage",
+        "Higher Performance",
+        "Long-Lasting Battery"
+      ]
+    ],
+    [
+      "RESOLUTION",
+      [
+        "Full HD",
+        "HD",
+        "HVGA",
+        "Quad HD",
+        "quarter HD",
+        "QVGA",
+        "WVGA"
+      ]
+    ],
+    [
+      "TYPE",
+      [
+        "Smartphones",
+        "Feature Phones"
+      ]
+    ],
+    [
+      "OSVERSION NAME",
+      [
+        "Jelly Bean",
+        "KitKat",
+        "Lollipop",
+        "Marshmallow",
+        "Nougat"
+      ]
+    ],
+    [
+      "AVAILABILITY",
+      [
+        "Exclude Out of Stock"
+      ]
+    ],
+    [
+      "CLOCK SPEED",
+      [
+        "1 - 1.5 GHz",
+        "1.5 - 1.9 GHz",
+        "2 - 2.5 GHz",
+        "Less than 900 MHz"
+      ]
+    ],
+    [
+      "FEATURES",
+      [
+        "WiFi",
+        "NFC",
+        "HD Recording",
+        "FM Player",
+        "Bluetooth"
+      ]
+    ],
+    [
+      "NUM OF CORES",
+      [
+        "Dual Core",
+        "Octa Core",
+        "Quad Core",
+        "Single Core"
+      ]
+    ],
+    [
+      "BUDGET",
+      [
+        "Rs5000 & below",
+        "Rs5000 to Rs9999",
+        "Rs 10000 to 14999",
+        "Rs15000 to 29999",
+        "Rs 3000 and above"
+      ]
+    ]
+  ]
+}
